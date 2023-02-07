@@ -4,7 +4,8 @@ body{
     background-image: url('./images/bg-pattern-top.svg'), url('./images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;
     /* background-position: top left , bottom right; */
-    background-position: -10% 600% , 100% -600%;
+    background-position: -50% 200%, 150% -200%;
+    background-attachment: fixed ,fixed;
     display: flex;
     justify-content: center;
     align-items: center;
